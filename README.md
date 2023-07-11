@@ -1,0 +1,3 @@
+- 👋 Hi, I’m JB Balines
+- 👀 I’m interested in Data Science and Quantitative & Risk Management.
+- 📫 You may reach me through this email (jbbalines@gmail.com).
